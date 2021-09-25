@@ -1,0 +1,7 @@
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\bin\Debug\04_SwitchCases.exe.config
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\bin\Debug\04_SwitchCases.exe
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\bin\Debug\04_SwitchCases.pdb
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.AssemblyReference.cache
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.csproj.CoreCompileInputs.cache
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.exe
+C:\the academy\ElevenFiftyProjects\1_Gold Badge\C# fundementals\04_SwitchCases\04_SwitchCases\obj\Debug\04_SwitchCases.pdb
